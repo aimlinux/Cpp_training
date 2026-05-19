@@ -1,1 +1,1 @@
-# C-_training
+# C++_training
